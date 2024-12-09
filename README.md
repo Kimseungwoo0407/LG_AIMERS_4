@@ -44,8 +44,7 @@
 다음 Python 패키지가 설치되어 있어야 합니다:
 ```bash
 pip install pandas numpy scikit-learn tqdm gensim lightgbm
-
-
+```
 
 ## 📦 사용된 라이브러리
 - `pandas`: 데이터 조작 및 정리.
