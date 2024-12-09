@@ -45,6 +45,8 @@
 ```bash
 pip install pandas numpy scikit-learn tqdm gensim lightgbm
 
+
+
 ## 📦 사용된 라이브러리
 - `pandas`: 데이터 조작 및 정리.
 - `numpy`: 수치 계산 및 결측값 처리.
